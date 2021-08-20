@@ -1,7 +1,6 @@
 <h1 align="center">🙌🏻 Hey there, I am Ayush Saxena.</h1>
 
 <br>
-<img align="right" width=250px height= 230px alt="GIF" src="https://media1.giphy.com/media/l2R0aUFFfV8OIo4nu/200w.webp?cid=ecf05e47qirxkqebjezutybalm9uuo0gv4dydwkhb9dyihau&rid=200w.webp&ct=g"/>
 <h3>📝 &nbsp&nbspAbout me </h3>
  <br>
  
