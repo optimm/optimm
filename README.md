@@ -1,11 +1,11 @@
 <h1 align="center">🙌🏻 Hey there, I am Ayush Saxena.</h1>
 
 <br>
-<img align="right" width=315px height= 280px alt="GIF" src="https://media1.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.webp?cid=ecf05e47hknne7z33dz882l4jf9pifkh4ktmzx80e9lfdsl9&rid=giphy.webp&ct=s"  height="250"/>
-<br>
+<img align="right" width=250px height= 230px alt="GIF" src="https://media1.giphy.com/media/l2R0aUFFfV8OIo4nu/200w.webp?cid=ecf05e47qirxkqebjezutybalm9uuo0gv4dydwkhb9dyihau&rid=200w.webp&ct=g"/>
 <h3>📝 &nbsp&nbspAbout me </h3>
-
-- 👨‍🏫 CSE Undergrad at Indian Institute Of Information Technology, JABALPUR
+ <br>
+ 
+- 👨‍🏫 CSE Undergrad at Indian Institute Of Information Technology , Jabalpur
 - 👨🏽‍💻 Interested in Competitive Programming and Web Development.
 - 🌱 I’m currently exploring Web Development and Open Source
 - 💬 Ask me about anything, I'd love to answer!
