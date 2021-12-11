@@ -2,7 +2,7 @@
 
 <p align="center"> https://optimm.netlify.app/</p>
 <img align="center" src="https://komarev.com/ghpvc/?username=optimm&label=My+Visitors&color=blueviolet">
-<br>
+
 <h3>📌&nbsp&nbspAbout me </h3>
 
  
@@ -13,7 +13,7 @@
 - 📫 Email me at ayushsaxena823@gmail.com
  
 
- <br>
+
 <hr/>
 <h3>📌&nbsp&nbspTechnologies I've used & 🤹 Skills I've acquired </h3>
 <br>
@@ -26,12 +26,12 @@
 
 
 <hr/>
- <br>
+
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=optimm&theme=radical&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimm&layout=compact&theme=radical">
   
   
- <br>
+
 <hr/>
  
  <h3>📌&nbsp&nbspFind me on</h3>
