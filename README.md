@@ -7,8 +7,8 @@
 
  
 - 👨‍🏫 CSE Undergrad at Indian Institute Of Information Technology , Jabalpur
-- 👨🏽‍💻 Interested in Competitive Programming and Web Development.
-- 🌱 I’m currently exploring Web Development and Open Source
+- 👨🏽‍💻 Interested in Competitive Programming ,Software Development, Bitcoin.
+- 🌱 I’m currently exploring Rust and Bitcoin.
 - 💬 Ask me about anything, I'd love to answer!
 - 📫 Email me at ayushsaxena823@gmail.com
  
