@@ -1,56 +1,50 @@
-<h1 align="center">🙌🏻 Hey there, I am Ayush Saxena</h1>
+<h1 align="center">🙌🏻 Hey there, I'm Ayush Saxena</h1>
 
-<p align="center">https://ayushsaxenaa.netlify.app/</p>
-<img align="center" src="https://komarev.com/ghpvc/?username=optimm&label=My+Visitors&color=blueviolet">
+<p align="center">Software engineer building high-scale, low-latency systems and the AI platforms that run on them.</p>
+<p align="center"><a href="https://ayushsaxenaa.netlify.app/">ayushsaxenaa.netlify.app</a></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=optimm&label=My+Visitors&color=blueviolet" alt="Profile visitors"></p>
 
-<h3>📌&nbsp&nbspAbout me </h3>
- 
-- 👨🏽‍💻 SDE Intern at Meesho. Working on Democratising internet commerce for a billion Indians
-- 👨‍🏫 BTech CSE Graduate from Indian Institute Of Information Technology , Jabalpur
-- 👨🏽‍💻 Interested in Competitive Programming, Software Development, Bitcoin.
-- 🌱 I’m currently exploring Spring Boot and Go.
-- 💬 Ask me about Software Development, System Design. I'd love to answer!
+<h3>📌&nbsp;&nbsp;About me</h3>
+
+- 👨🏽‍💻 SDE 2 and founding engineer at **Meesho AI Services**, building the multi-tenant platform behind its voice, chat and agent-assist products, serving millions of interactions a day
+- 🎙️ Core developer on India's first GenAI voice bot at scale, and spoke about it at **Meesho BharatConf '25**
+- 🏆 Summer of Bitcoin 2023 with Eye of Satoshi, 5★ on CodeChef, Knight on LeetCode
+- 🎓 B.Tech in CSE from IIIT Jabalpur
+- 🌱 Currently exploring deep learning, generative AI and system design
+- 💬 Ask me about distributed systems, LLM platforms and system design
 - 📫 Email me at ayushsaxena823@gmail.com
- 
-
 
 <hr/>
-<h3>📌&nbsp&nbspTechnologies I've used & 🤹 Skills I've acquired </h3>
-<br>
+<h3>📌&nbsp;&nbsp;Tech I work with</h3>
 
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="">  
+**Languages**
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="">  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt=""> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="">  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt=""> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt=""> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt=""> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt=""> 
+**AI**
 
+<img src="https://img.shields.io/badge/LLMs-8F7DFF?style=for-the-badge" alt="LLMs"> <img src="https://img.shields.io/badge/RAG-8F7DFF?style=for-the-badge" alt="RAG"> <img src="https://img.shields.io/badge/AI%20agents-8F7DFF?style=for-the-badge" alt="AI agents"> <img src="https://img.shields.io/badge/Speech%20AI-8F7DFF?style=for-the-badge" alt="Speech AI"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt=""> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="">
+**Backend and data**
 
-<img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt=""> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt=""> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=""> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" alt="gRPC"> <img src="https://img.shields.io/badge/gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="Elasticsearch">
 
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt=""> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt=""> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt=""> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="">
+**Infra**
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> <img src="https://img.shields.io/badge/argo%20cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"> <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt=""> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="">
+**Frontend**
 
-<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 
 <hr/>
 
+<h3>📌&nbsp;&nbsp;Find me on</h3>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=optimm&theme=radical&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimm&layout=compact&theme=radical">
-  
-  
-
-<hr/>
- 
- <h3>📌&nbsp&nbspFind me on</h3>
- <br>
 <p>
-  <a href="https://www.linkedin.com/in/ayush-saxena-b5b099203">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
-  </a>
+  <a href="https://ayushsaxenaa.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8F7DFF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayush-saxena-b5b099203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@ayushsaxena823"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://x.com/AyushSaxena823"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:ayushsaxena823@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
